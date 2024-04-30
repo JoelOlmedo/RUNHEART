@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{04d47045-a11f-4971-9bdd-6b409665fd20}">
+		<property name="name">
+			<value>OnAir</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1e84d0a6-eb3e-40b1-9569-0643a15daac8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{37d74da1-1e7b-42bd-8729-e9ca9d0b8678}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{37d74da1-1e7b-42bd-8729-e9ca9d0b8678}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

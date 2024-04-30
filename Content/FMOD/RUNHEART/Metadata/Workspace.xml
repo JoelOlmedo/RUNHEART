@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{97a71979-f2c1-4084-b109-bfeb9fdffb5f}">
 		<property name="builtBanksOutputDirectory">
-			<value>D:/GIT_REPOS/RUNHEART/Content/FMOD</value>
+			<value>../</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{6b1e8054-aa49-486b-9817-055bb6da07f7}</destination>
